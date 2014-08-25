@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My first post - My jekyll experience
+category: general
 ---
 
 I was long overdue for sharing my experience as a Rails Developer and a Gamification consultant, but when I tried to start I always failed
